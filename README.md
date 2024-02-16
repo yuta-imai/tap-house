@@ -5,7 +5,7 @@ An ebpf based packet analyser. You can tap packets using Soracom Junction and fe
 ## Run
 
 ```
-sudo bash run.sh [YOUR_SCRIPT.py]
+sudo bash run.sh tap-house.py
 ```
 
 For detail, see: https://github.com/iovisor/bcc/issues/2278#issuecomment-1582090173
