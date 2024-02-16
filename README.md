@@ -1,5 +1,8 @@
-## Run
+# tap-house 🍺
 
+An ebpf based packet analyser. You can tap packets using Soracom Junction and feed them into tap-house🍺.
+
+## Run
 
 ```
 sudo bash run.sh [YOUR_SCRIPT.py]
