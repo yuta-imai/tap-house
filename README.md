@@ -2,7 +2,7 @@
 
 An ebpf based packet analyser. You can tap packets using Soracom Junction and feed them into tap-house🍺.
 
-tap-house comse from "Tap House Grill", a bar in downtown aera Seattle :)
+tap-house comes from "Tap House Grill", a bar in downtown Seattle :)
 https://www.instagram.com/taphousegrill/
 
 ## Run
